@@ -1,4 +1,4 @@
-//import { IArguments } from './Arguments';
+// import { IArguments } from './Arguments';
 import Logger from './Logger';
 
 /**
